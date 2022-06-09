@@ -1,3 +1,3 @@
 # SI
 
-## projet: Lego maker
+## Projet: Lego maker
