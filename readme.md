@@ -11,3 +11,4 @@ Système de traction directionelle.
 Objectif:
 
 Vitesse: lent
+Direction: à l’avant
