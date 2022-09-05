@@ -1,3 +1,3 @@
 # SI
 
-## Projet: Lego maker
+## Projet: Domino maker
