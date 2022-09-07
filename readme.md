@@ -1,6 +1,4 @@
-# SI
-
-## Projet: Domino maker
+# Projet: Domino maker
 
 ## Sommaire:
 
