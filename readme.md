@@ -6,11 +6,43 @@ _Système de traction directionelle.
 
 _Système de direction automatique.
 
-_Système de placement 
+_Système de placement réguliers.
+
+_Recharge de stockage de dominos.
 
 ### Système de traction directionelle:
 
-Objectif:
+#### Objectif:
 
-Vitesse: lent
-Direction: à l’avant
+_Vitesse: lent
+
+_Direction: à l’avant pour de l'espace à l'arrière.
+
+_Contient le hub
+
+#### Solutions:
+
+
+
+### Système de direction automatique:
+
+#### Programme NSI Nathanaël:
+
+
+
+### Système de placement régulier:
+
+#### objectifs:
+
+_intervalle de placement
+
+_transfert de rotation en translation 
+
+
+
+### Réserve de stockage de dominos:
+
+#### objectifs:
+
+_format du domino.
+
