@@ -44,5 +44,5 @@ _transfert de rotation en translation
 
 #### objectifs:
 
-_format du domino.
+_format du domino: format lego 1,6cm x 3,2cm x 1,2cm
 
