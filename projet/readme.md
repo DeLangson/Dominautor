@@ -24,7 +24,11 @@ _Contient le hub
 
 #### Solutions:
 
+Direction programée par Nathanaël:
 
+### Système de propulsion:
+
+Moteur à l'arrière équipé d'un différentiel 
 
 ### Système de direction automatique:
 
@@ -36,11 +40,9 @@ _Contient le hub
 
 #### objectifs:
 
-_intervalle de placement
-
 _transfert de rotation en translation
 
-_
+_régulation de l'intervalle de placement
 
 ### Réserve de stockage de dominos:
 
@@ -48,3 +50,6 @@ _
 
 _format du domino: format lego 0,8cm x 1,6cm x cm
 
+_sortie du stockage horizontale
+
+_stabilité
