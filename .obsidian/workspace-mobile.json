@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4836652dbedfd09c",
+        "id": "b3a1950bd769e24d",
         "type": "tabs",
         "children": [
           {
-            "id": "c422ef734bacf631",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projet/readme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f6e0465497ea53e",
+            "id": "5e683ea172406562",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -29,8 +17,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +130,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8f6e0465497ea53e",
+  "active": "5e683ea172406562",
   "lastOpenFiles": [
     "projet/readme.md",
     "projet/Drawing 2023-03-31 09.12.28.excalidraw.md",
