@@ -36,14 +36,15 @@ Moteur à l'arrière équipé d'un différentiel
 
 ### Système de placement régulier:
 
-_remorque
-
-_roues libres
-
-_transfert de rotation en translation:
+_remorque :
+    roues libres
+    
+_transfert de rotation en translation :
     Bielle manivelle :
 
-_régulation de l'intervalle de placement
+_régulation de l'intervalle de placement :
+    Vitesse du moteur :
+        Constante
 
 ### Réserve de stockage de dominos:
 
