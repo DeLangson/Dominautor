@@ -2,11 +2,11 @@
 
 ## Sommaire:
 
-_Système directionel.
+_Système mécanique directionel.
 
 _système de propulsion.
 
-_Système de direction automatique.
+_Automatisation du Système directionel.
 
 _Système de placement réguliers.
 
