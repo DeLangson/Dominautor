@@ -40,8 +40,6 @@ _remorque
 
 _roues libres
 
-#### objectifs:
-
 _transfert de rotation en translation
 
 _régulation de l'intervalle de placement
