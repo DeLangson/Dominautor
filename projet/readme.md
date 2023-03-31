@@ -1,4 +1,4 @@
-# Projet: Domino makerr
+# Projet: Domino maker
 
 ## Sommaire:
 
