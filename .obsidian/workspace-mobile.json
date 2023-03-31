@@ -11,8 +11,10 @@
             "id": "a15efc5da1fce358",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "projet/Drawing 2023-03-31 09.12.28.excalidraw.md"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "projet/Drawing 2023-03-31 09.12.28.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "projet/Drawing 2023-03-31 09.12.28.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +111,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "projet/Drawing 2023-03-31 09.12.28.excalidraw.md"
+          }
         }
       }
     ],
