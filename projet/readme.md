@@ -14,19 +14,19 @@ _Recharge de stockage de dominos.
 
 ### Système directionel:
 
-#### Objectif:
+_Vitesse :
+    Lent
 
-_Vitesse: lent
+_Direction :
+    
 
-_Direction: .
-
-#### Solutions:
 
 Direction programée par Nathanaël:
 
 ### Système de propulsion:
 
-Moteur à l'arrière équipé d'un différentiel 
+Moteur à l'arrière équipé d'un différentiel :
+    *Schéma d'un différentiel*
 
 ### Système de direction automatique:
 
