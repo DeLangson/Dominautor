@@ -20,8 +20,6 @@ _Vitesse: lent
 
 _Direction: .
 
-_Contient le hub
-
 #### Solutions:
 
 Direction programée par Nathanaël:
@@ -37,6 +35,10 @@ Moteur à l'arrière équipé d'un différentiel
 
 
 ### Système de placement régulier:
+
+_remorque
+
+_roues libres
 
 #### objectifs:
 
