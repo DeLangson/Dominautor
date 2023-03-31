@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8f6e0465497ea53e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "projet/Drawing 2023-03-31 09.12.28.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "projet/readme.md",
+            "file": "projet/Drawing 2023-03-31 09.12.28.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "projet/readme.md",
+            "file": "projet/Drawing 2023-03-31 09.12.28.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "projet/readme.md"
+            "file": "projet/Drawing 2023-03-31 09.12.28.excalidraw.md"
           }
         }
       }
@@ -128,11 +139,14 @@
       "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false
+      "command-palette:Ouvrir la palette de commandes": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dbd52e4609c1b614",
+  "active": "8f6e0465497ea53e",
   "lastOpenFiles": [
+    "projet/readme.md",
+    "projet/Drawing 2023-03-31 09.12.28.excalidraw.md",
     "Sans titre.md"
   ]
 }

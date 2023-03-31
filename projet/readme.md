@@ -40,7 +40,8 @@ _remorque
 
 _roues libres
 
-_transfert de rotation en translation
+_transfert de rotation en translation:
+    Bielle manivelle :
 
 _régulation de l'intervalle de placement
 
