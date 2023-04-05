@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Équerre tp./Équerre en acier(AISI 1020) 1.md",
+                "file": "Équerre tp./Équerre en aluminium(aliage type 1060).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Équerre tp./Équerre en acier(AISI 1020) 1.md",
+            "file": "Équerre tp./Équerre en aluminium(aliage type 1060).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Équerre tp./Équerre en acier(AISI 1020) 1.md",
+            "file": "Équerre tp./Équerre en aluminium(aliage type 1060).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Équerre tp./Équerre en acier(AISI 1020) 1.md"
+            "file": "Équerre tp./Équerre en aluminium(aliage type 1060).md"
           }
         }
       }
@@ -148,7 +148,7 @@
   "active": "63a7b46faa45b9b2",
   "lastOpenFiles": [
     "Équerre tp./Équerre en acier(AISI 1020).md",
-    "Équerre tp./Équerre en acier(AISI 1020) 1.md",
+    "Équerre tp./Équerre en aluminium(aliage type 1060).md",
     "Sans titre.md",
     "Équerre tp.",
     "projet/readme.md",
