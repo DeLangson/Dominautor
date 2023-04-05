@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9b5ed0e1e009591a",
+        "id": "15f72bc9a8ef68a7",
         "type": "tabs",
         "children": [
           {
-            "id": "a15efc5da1fce358",
+            "id": "336f364a8411151c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projet/readme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e848bbd7bde0b470",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grand oral/Projet (Grand oral).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Grand oral/Projet (Grand oral).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Grand oral/Projet (Grand oral).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Grand oral/Projet (Grand oral).md"
-          }
+          "state": {}
         }
       }
     ],
@@ -145,11 +124,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e848bbd7bde0b470",
+  "active": "336f364a8411151c",
   "lastOpenFiles": [
     "projet/readme.md",
-    "projet/Drawing 2023-03-31 09.12.28.excalidraw.md",
     "Grand oral/Projet (Grand oral).md",
+    "projet/Drawing 2023-03-31 09.12.28.excalidraw.md",
     "Grand oral",
     "projet/Sans titre",
     "Sans titre.md"
