@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "15f72bc9a8ef68a7",
+        "id": "0194c5fbd3f49fae",
         "type": "tabs",
         "children": [
           {
-            "id": "336f364a8411151c",
+            "id": "a1a59ea62f66880e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Équerre tp./Équerre en acier(AISI 1020).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Équerre tp./Équerre en acier(AISI 1020).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Équerre tp./Équerre en acier(AISI 1020).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Équerre tp./Équerre en acier(AISI 1020).md"
+          }
         }
       }
     ],
@@ -124,13 +132,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "336f364a8411151c",
+  "active": "a1a59ea62f66880e",
   "lastOpenFiles": [
+    "Sans titre.md",
+    "Équerre tp./Équerre en acier(AISI 1020).md",
+    "Équerre tp.",
     "projet/readme.md",
     "Grand oral/Projet (Grand oral).md",
     "projet/Drawing 2023-03-31 09.12.28.excalidraw.md",
     "Grand oral",
-    "projet/Sans titre",
-    "Sans titre.md"
+    "projet/Sans titre"
   ]
 }
