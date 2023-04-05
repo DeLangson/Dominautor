@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Équerre tp./Équerre en aluminium(aliage type 1060) 1.md",
+                "file": "Équerre tp./Équerre en PMMA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Équerre tp./Équerre en aluminium(aliage type 1060) 1.md",
+            "file": "Équerre tp./Équerre en aluminium(aliage type 1060).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Équerre tp./Équerre en aluminium(aliage type 1060) 1.md",
+            "file": "Équerre tp./Équerre en aluminium(aliage type 1060).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Équerre tp./Équerre en aluminium(aliage type 1060) 1.md"
+            "file": "Équerre tp./Équerre en aluminium(aliage type 1060).md"
           }
         }
       }
@@ -157,9 +157,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f72b4f02ce3ffdad",
+  "active": "63a7b46faa45b9b2",
   "lastOpenFiles": [
-    "Équerre tp./Équerre en aluminium(aliage type 1060) 1.md",
+    "Équerre tp./Équerre en PMMA.md",
     "Équerre tp./Équerre en aluminium(aliage type 1060).md",
     "Équerre tp./Équerre en acier(AISI 1020).md",
     "Sans titre.md",
