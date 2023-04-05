@@ -1,4 +1,4 @@
 CHARGE :: 100N
-MASSE :: 
-CONTRAINTE :: $6,8 \times 10^{7}$
-DEPLACEMENT :: 
+MASSE :: $882,73g$
+CONTRAINTE :: $
+DEPLACEMENT :: $ \times 10{}$
