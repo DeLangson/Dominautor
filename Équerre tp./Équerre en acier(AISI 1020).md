@@ -1,1 +1,3 @@
-Masse : 
+CHARGE :: 100N
+MASSE :: 
+CONTRAINTE ::
