@@ -1,0 +1,5 @@
+CHARGE :: 100N
+MASSE :: $132,97g$
+CONTRAINTE :: $6,552\times 10^{8}N\centerdot m^{-2}$ 
+LIMITE_D_ELASTICITE :: NON COMMUNIQUÉE 
+DEPLACEMENT :: $11cm$ 
