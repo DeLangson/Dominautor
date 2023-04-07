@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "projet/readme.md",
+            "file": "Grand oral/Projet (Grand oral).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "projet/readme.md",
+            "file": "Grand oral/Projet (Grand oral).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "projet/readme.md"
+            "file": "Grand oral/Projet (Grand oral).md"
           }
         }
       }
@@ -145,10 +144,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8c4a6cd515ceb0c0",
+  "active": "4789b353f7be5b12",
   "lastOpenFiles": [
-    "Grand oral/Projet (Grand oral).md",
     "projet/readme.md",
+    "Grand oral/Projet (Grand oral).md",
     "Équerre tp./Équerre1 en PMMA.md",
     "Équerre tp./Équerre1 en aluminium(aliage type 1060).md",
     "Équerre tp./images/Equerre1_BELLEC-Static 2-Résultats-Déplacements1.analysis.png",
