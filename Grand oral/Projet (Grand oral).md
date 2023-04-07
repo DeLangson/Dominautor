@@ -11,7 +11,7 @@ On s'intéresse à un robot qui se déplace en autonomie.
 
 En réalité le robot n'est autonome qu'après une programation particulière et entièrement prévue par les humains après de nombreux échecs.
 
-Comment on 
+Comment peut-on 
 
 ### _Notre besoin:
 Placement automatique et guidé par le sol  des dominos. (Machine de Rube Goldberg)
@@ -25,6 +25,8 @@ _ direction(programmation)
 
 ### Capteurs :
 _ Capteurs de couleur/luminosité
+
+L'appareil détecte l'intensité lumineuse
 
 La valeur détectée est analogique puis convertie en numérque.
 
