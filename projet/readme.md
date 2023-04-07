@@ -12,7 +12,7 @@ _Système de placement réguliers.
 
 _Recharge de stockage de dominos.
 
-### Système directionel:
+### Système mécanique directionel:
 
 _Vitesse :
     Lent
@@ -28,7 +28,8 @@ Direction programée par Nathanaël:
 Moteur à l'arrière équipé d'un différentiel :
     *Schéma d'un différentiel*
 
-### Système de direction automatique:
+### Automatisation du système de direction 
+:
 
 #### Programme NSI Nathanaël:
 
@@ -46,7 +47,7 @@ _régulation de l'intervalle de placement :
     Vitesse du moteur :
         Constante
 
-### Réserve de stockage de dominos:
+### Recharge de stockage de dominos:
 
 #### objectifs:
 
