@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8c4a6cd515ceb0c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projet/readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Grand oral/Projet (Grand oral).md",
+            "file": "projet/readme.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Grand oral/Projet (Grand oral).md",
+            "file": "projet/readme.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Grand oral/Projet (Grand oral).md"
+            "file": "projet/readme.md"
           }
         }
       }
@@ -132,8 +145,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4789b353f7be5b12",
+  "active": "8c4a6cd515ceb0c0",
   "lastOpenFiles": [
+    "Grand oral/Projet (Grand oral).md",
+    "projet/readme.md",
     "Équerre tp./Équerre1 en PMMA.md",
     "Équerre tp./Équerre1 en aluminium(aliage type 1060).md",
     "Équerre tp./images/Equerre1_BELLEC-Static 2-Résultats-Déplacements1.analysis.png",
@@ -154,8 +169,6 @@
     "Équerre tp./Équerre2 en acier(AISI 1020).md",
     "Sans titre.md",
     "Équerre tp.",
-    "projet/readme.md",
-    "Grand oral/Projet (Grand oral).md",
     "projet/Drawing 2023-03-31 09.12.28.excalidraw.md",
     "Grand oral",
     "projet/Sans titre"
