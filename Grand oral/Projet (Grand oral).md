@@ -7,4 +7,5 @@ Un robot : KÉZAKO!?
 Le préjugé : 
 La réalité ou pas :
 
-### _Notre besoin
+### _Notre besoin:
+Placement automatique et guidé par le sol 
