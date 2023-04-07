@@ -6,6 +6,7 @@
 Un robot : KÉZAKO!?
 Le préjugé : 
 La réalité ou pas :
+On cherche s'intéresse à ce qu'est un robot et 
 
 ### _Notre besoin:
 Placement automatique et guidé par le sol  des dominos. (Machine de Rube Goldberg)
@@ -20,4 +21,7 @@ _ direction(programmation)
 ### Capteurs :
 _ Capteurs de couleur/luminosité
 
-La valeur détectée est analogique puis donvertie numérque.
+La valeur détectée est analogique puis convertie en numérque.
+
+### Asservissement:
+_ 
