@@ -15,4 +15,7 @@ _ Le grand bloc non maniable.(différentiel)
 _ La remorque (mieux)
 _ Suivi de ligne (à développer)
 _ système bielle manivelle
-_ 
+_ direction(programmation)
+
+### Capteurs :
+_ Capteurs de 
