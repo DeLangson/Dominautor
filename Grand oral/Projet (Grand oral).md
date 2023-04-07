@@ -13,4 +13,4 @@ Placement automatique et guidé par le sol  des dominos. (Machine de Rube Goldbe
 ### Solution(ou pas):
 _ Le grand bloc non maniable.
 _ La remorque (mieux)
-_ Suivi de ligne
+_ Suivi de ligne (à développer)
