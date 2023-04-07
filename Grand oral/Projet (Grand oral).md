@@ -11,6 +11,8 @@ La réalité ou pas :
 Placement automatique et guidé par le sol  des dominos. (Machine de Rube Goldberg)
 
 ### Solution(ou pas):
-_ Le grand bloc non maniable.
+_ Le grand bloc non maniable.(différentiel)
 _ La remorque (mieux)
 _ Suivi de ligne (à développer)
+_ système bielle manivelle
+_ 
