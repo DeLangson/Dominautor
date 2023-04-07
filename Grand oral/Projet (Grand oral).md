@@ -6,7 +6,9 @@
 Un robot : KÉZAKO!?
 Le préjugé : 
 La réalité ou pas :
-On cherche s'intéresse à ce qu'est un robot et 
+On s'intéresse à un robot qui se déplace en autonomie.
+
+En réalité le robot n'est autonome qu'après une 
 
 ### _Notre besoin:
 Placement automatique et guidé par le sol  des dominos. (Machine de Rube Goldberg)
