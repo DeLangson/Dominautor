@@ -2,4 +2,4 @@
 
 ## Les robots:
 
-Expo
+### _Exposer la problématique :
