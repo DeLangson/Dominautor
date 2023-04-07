@@ -18,4 +18,6 @@ _ système bielle manivelle
 _ direction(programmation)
 
 ### Capteurs :
-_ Capteurs de 
+_ Capteurs de couleur/luminosité
+
+La valeur détectée est analogique puis donvertie numérque.
