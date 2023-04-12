@@ -1,2 +1,2 @@
 CHARGE :: 100N
-MASSE :: $g$
+MASSE :: $179,90g$ 
