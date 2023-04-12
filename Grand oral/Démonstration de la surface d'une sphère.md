@@ -1,0 +1,1 @@
+On cherche à démontrer pourquoi $

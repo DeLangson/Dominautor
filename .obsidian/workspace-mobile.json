@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2e929fb4e40da421",
+        "id": "2e30cd6d591d14d0",
         "type": "tabs",
         "children": [
           {
-            "id": "4789b353f7be5b12",
+            "id": "95efaf99a25721e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grand oral/Projet (Grand oral).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c4a6cd515ceb0c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projet/readme.md",
+                "file": "Grand oral/Démonstration de la surface d'une sphère.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Grand oral/Projet (Grand oral).md",
+            "file": "Grand oral/Démonstration de la surface d'une sphère.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Grand oral/Projet (Grand oral).md",
+            "file": "Grand oral/Démonstration de la surface d'une sphère.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Grand oral/Projet (Grand oral).md"
+            "file": "Grand oral/Démonstration de la surface d'une sphère.md"
           }
         }
       }
@@ -144,8 +132,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4789b353f7be5b12",
+  "active": "95efaf99a25721e7",
   "lastOpenFiles": [
+    "Grand oral/Démonstration de la surface d'une sphère.md",
     "projet/readme.md",
     "Grand oral/Projet (Grand oral).md",
     "Équerre tp./Équerre1 en PMMA.md",
