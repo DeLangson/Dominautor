@@ -65,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +131,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Équerre tp./images/Equerre_2_PMMA_contraintes.png",
+            "file": "Équerre tp./Équerre2 en acier(AISI 1020).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -149,7 +148,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Équerre tp./images/Equerre_2_PMMA_contraintes.png",
+            "file": "Équerre tp./Équerre2 en acier(AISI 1020).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -161,7 +160,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Équerre tp./images/Equerre_2_PMMA_contraintes.png"
+            "file": "Équerre tp./Équerre2 en acier(AISI 1020).md"
           }
         }
       }
@@ -179,13 +178,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dbd52e4609c1b614",
+  "active": "287f656648258e89",
   "lastOpenFiles": [
+    "Équerre tp./Équerre2 en aluminium(aliage type 1060).md",
+    "Équerre tp./images/Equerre_2_PMMA_contraintes.png",
     "Équerre tp./images/Equerre5_.png",
     "Équerre tp./Équerre1 en PMMA.md",
-    "Équerre tp./Équerre2 en aluminium(aliage type 1060).md",
     "Équerre tp./Équerre2 en acier(AISI 1020).md",
-    "Équerre tp./images/Equerre_2_PMMA_contraintes.png",
     "Équerre tp./images/Equerre_2_aluminium_deplacements.png",
     "Équerre tp./images/Equerre_2_aluminium_contraintes.png",
     "Équerre tp./images/Equerre_2_acier_contraintes.png",
@@ -203,7 +202,6 @@
     "Grand oral/Projet (Grand oral).md",
     "Grand oral/Démonstration de la surface d'un disque.md",
     "projet/readme.md",
-    "Équerre tp./images/Equerre1_BELLEC-Static 3-Résultats-Déplacements1.analysis.png",
     "Équerre tp./images",
     "/Équerre tp./images",
     "Sans titre.md",
