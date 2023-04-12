@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Équerre tp./Équerre3 en.md",
+                "file": "Équerre tp./Équerre3 en acier (AISI 1020).md",
                 "mode": "source",
                 "source": false
               }
@@ -23,8 +23,12 @@
             "id": "5aa9eda12b802935",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Équerre tp./Équerre3 en aluminium (.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -35,7 +39,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Équerre tp./Équerre3 en.md",
+            "file": "Équerre tp./Équerre3 en aluminium (.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -118,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Équerre tp./Équerre3 en.md",
+            "file": "Équerre tp./Équerre3 en aluminium (.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -130,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Équerre tp./Équerre3 en.md"
+            "file": "Équerre tp./Équerre3 en aluminium (.md"
           }
         }
       }
@@ -148,10 +153,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "287f656648258e89",
+  "active": "5aa9eda12b802935",
   "lastOpenFiles": [
+    "Équerre tp./Équerre3 en aluminium (.md",
+    "Équerre tp./Équerre3 en acier (AISI 1020).md",
     "Équerre tp./Équerre2 en PMMA.md",
-    "Équerre tp./Équerre3 en.md",
     "Équerre tp./images/Equerre_3-Static 1-Résultats-Contraintes1.analysis.png",
     "Équerre tp./Équerre2 en aluminium(aliage type 1060).md",
     "Équerre tp./Équerre2 en acier(AISI 1020).md",
