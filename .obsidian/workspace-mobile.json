@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "287f656648258e89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Équerre tp./Équerre2 en acier(AISI 1020).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5aa9eda12b802935",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Équerre tp./Équerre2 en aluminium(aliage type 1060).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6086890077de2b3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Équerre tp./Équerre1 en PMMA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ebe18b3e0956fde8",
             "type": "leaf",
             "state": {
@@ -131,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Équerre tp./Équerre2 en acier(AISI 1020).md",
+            "file": "Équerre tp./images/Equerre_2_PMMA_contraintes.png",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -148,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Équerre tp./Équerre2 en acier(AISI 1020).md",
+            "file": "Équerre tp./images/Equerre_2_PMMA_contraintes.png",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -160,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Équerre tp./Équerre2 en acier(AISI 1020).md"
+            "file": "Équerre tp./images/Equerre_2_PMMA_contraintes.png"
           }
         }
       }
@@ -178,13 +142,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "287f656648258e89",
+  "active": "ebe18b3e0956fde8",
   "lastOpenFiles": [
+    "Équerre tp./Équerre1 en PMMA.md",
     "Équerre tp./Équerre2 en aluminium(aliage type 1060).md",
+    "Équerre tp./Équerre2 en acier(AISI 1020).md",
     "Équerre tp./images/Equerre_2_PMMA_contraintes.png",
     "Équerre tp./images/Equerre5_.png",
-    "Équerre tp./Équerre1 en PMMA.md",
-    "Équerre tp./Équerre2 en acier(AISI 1020).md",
     "Équerre tp./images/Equerre_2_aluminium_deplacements.png",
     "Équerre tp./images/Equerre_2_aluminium_contraintes.png",
     "Équerre tp./images/Equerre_2_acier_contraintes.png",
