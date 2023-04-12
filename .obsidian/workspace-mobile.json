@@ -11,9 +11,11 @@
             "id": "287f656648258e89",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Équerre tp./images/Equerre_3-Static 2-Résultats-Contraintes1.analysis.png"
+                "file": "Équerre tp./Équerre3 en acier(AISI 1020).md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -63,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -129,7 +132,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Équerre tp./images/Equerre_3-Static 2-Résultats-Contraintes1.analysis.png",
+            "file": "Équerre tp./Équerre1 en acier(AISI 1020).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -146,7 +149,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Équerre tp./images/Equerre_3-Static 2-Résultats-Contraintes1.analysis.png",
+            "file": "Équerre tp./Équerre1 en acier(AISI 1020).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -158,7 +161,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Équerre tp./images/Equerre_3-Static 2-Résultats-Contraintes1.analysis.png"
+            "file": "Équerre tp./Équerre1 en acier(AISI 1020).md"
           }
         }
       }
@@ -176,10 +179,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "287f656648258e89",
+  "active": "8510f25a0e8d5475",
   "lastOpenFiles": [
-    "Équerre tp./images/Equerre_3-Static 2-Résultats-Déplacements1.analysis.png",
     "Équerre tp./Équerre3 en acier(AISI 1020).md",
+    "Équerre tp./images/Equerre1_BELLEC-Static 2-Résultats-Déplacements1.analysis.png",
+    "Équerre tp./images/Equerre1_BELLEC-Static 2-Résultats-Contraintes1.analysis.png",
+    "Équerre tp./images/Equerre1_BELLEC-Static 1-Résultats-Contraintes1.analysis.png",
+    "Équerre tp./images/Equerre_3-Static 2-Résultats-Contraintes1.analysis.png",
+    "Équerre tp./images/Equerre_3-Static 2-Résultats-Déplacements1.analysis.png",
     "Équerre tp./Équerre1 en acier(AISI 1020).md",
     "Équerre tp./images/Equerre_3-Static 1-Résultats-Contraintes1.analysis.png",
     "Équerre tp./Équerre3 en PMMA.md",
@@ -192,14 +199,10 @@
     "Grand oral/Projet (Grand oral).md",
     "Grand oral/Démonstration de la surface d'un disque.md",
     "projet/readme.md",
-    "Équerre tp./images/Equerre1_BELLEC-Static 2-Résultats-Déplacements1.analysis.png",
-    "Équerre tp./images/Equerre_3-Static 2-Résultats-Contraintes1.analysis.png",
     "Équerre tp./images/Equerre_3-Static 3-Résultats-Contraintes1.analysis.png",
     "Équerre tp./images/Equerre4-Static 1-Résultats-Contraintes1.analysis.png",
     "Équerre tp./images/Equerre1_BELLEC-Static 3-Résultats-Déplacements1.analysis.png",
     "Équerre tp./images",
-    "Équerre tp./images/Equerre1_BELLEC-Static 2-Résultats-Contraintes1.analysis.png",
-    "Équerre tp./images/Equerre1_BELLEC-Static 1-Résultats-Contraintes1.analysis.png",
     "Équerre tp./images/Equerre_3-Static 3-Résultats-Déplacements1.analysis.png",
     "/Équerre tp./images",
     "Sans titre.md",
