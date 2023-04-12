@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Équerre tp./images/Equerre_5_aluminium_contraintes.png"
+                "file": "Équerre tp./images/Equerre_5_acier_contraintes.png"
               }
             }
           },
@@ -21,11 +21,9 @@
             "id": "e95934bee1ebd3f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Équerre tp./Équerre4 en aluminium(aliage type 1060).md",
-                "mode": "source",
-                "source": false
+                "file": "Équerre tp./images/Equerre_2_acier_contraintes.png"
               }
             }
           }
@@ -96,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Équerre tp./Équerre4 en aluminium(aliage type 1060).md",
+            "file": "Équerre tp./images/Equerre_2_acier_contraintes.png",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Équerre tp./Équerre4 en aluminium(aliage type 1060).md",
+            "file": "Équerre tp./images/Equerre_2_acier_contraintes.png",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Équerre tp./Équerre4 en aluminium(aliage type 1060).md"
+            "file": "Équerre tp./images/Equerre_2_acier_contraintes.png"
           }
         }
       }
@@ -145,18 +143,21 @@
   },
   "active": "e95934bee1ebd3f0",
   "lastOpenFiles": [
+    "screenshot.png",
+    "Équerre tp./images/Equerre1_BELLEC-Static 2-Résultats-Contraintes1.analysis.png",
+    "Équerre tp./Équerre1 en acier(AISI 1020).md",
+    "Équerre tp./Équerre2 en acier(AISI 1020).md",
+    "Équerre tp./Équerre4 en acier(AISI 1020).md",
+    "Équerre tp./images/Equerre_5_acier_contraintes.png",
+    "Équerre tp./Équerre4 en aluminium(aliage type 1060).md",
     "Équerre tp./images/Equerre_5_aluminium_contraintes.png",
     "Équerre tp./images/Equerre_5_PMMA_deplacements.png",
-    "Équerre tp./Équerre4 en aluminium(aliage type 1060).md",
     "Équerre tp./Équerre4 en PMMA.md",
     "Équerre tp./images/Equerre_5_PMMA_comtraintes.png",
     "Équerre tp./images/Equerre_5_aluminium_deplacements.png",
     "Équerre tp./images/Equerre_5_acier_deplacements.png",
     "Équerre tp./Équerre3 en aluminium(aliage type 1060).md",
-    "Équerre tp./Équerre4 en acier(AISI 1020).md",
     "Équerre tp./Équerre4 a.md",
-    "Équerre tp./images/Equerre_5_acier_contraintes.png",
-    "Équerre tp./images/Equerre1_BELLEC-Static 2-Résultats-Contraintes1.analysis.png",
     "Équerre tp./images/Equerre1_BELLEC-Static 1-Résultats-Contraintes1.analysis.png",
     "Équerre tp./images/Equerre_2_acier_contraintes.png",
     "Équerre tp./images/screenshot 2.png",
@@ -166,8 +167,6 @@
     "Équerre tp./Équerre1 en aluminium(aliage type 1060).md",
     "Équerre tp./Équerre1 en PMMA.md",
     "Équerre tp./Équerre2 en aluminium(aliage type 1060).md",
-    "Équerre tp./Équerre2 en acier(AISI 1020).md",
-    "Équerre tp./Équerre1 en acier(AISI 1020).md",
     "Grand oral/Projet (Grand oral).md",
     "Grand oral/Démonstration de la surface d'un disque.md",
     "projet/readme.md",
