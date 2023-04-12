@@ -23,7 +23,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Équerre tp./images/Equerre_2_acier_contraintes.png"
+                "file": "Équerre tp./images/Equerre3-Static 1-Résultats-Contraintes1.analysis.png"
               }
             }
           }
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Équerre tp./images/Equerre_2_acier_contraintes.png",
+            "file": "Équerre tp./images/Equerre_5_acier_contraintes.png",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Équerre tp./images/Equerre_2_acier_contraintes.png",
+            "file": "Équerre tp./images/Equerre_5_acier_contraintes.png",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Équerre tp./images/Equerre_2_acier_contraintes.png"
+            "file": "Équerre tp./images/Equerre_5_acier_contraintes.png"
           }
         }
       }
@@ -141,9 +141,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e95934bee1ebd3f0",
+  "active": "dbd52e4609c1b614",
   "lastOpenFiles": [
+    "screenshot 4.png",
+    "screenshot 3.png",
+    "screenshot 2.png",
+    "screenshot 1.png",
     "screenshot.png",
+    "Équerre tp./images/Equerre_2_acier_contraintes.png",
     "Équerre tp./images/Equerre1_BELLEC-Static 2-Résultats-Contraintes1.analysis.png",
     "Équerre tp./Équerre1 en acier(AISI 1020).md",
     "Équerre tp./Équerre2 en acier(AISI 1020).md",
@@ -154,13 +159,8 @@
     "Équerre tp./images/Equerre_5_PMMA_deplacements.png",
     "Équerre tp./Équerre4 en PMMA.md",
     "Équerre tp./images/Equerre_5_PMMA_comtraintes.png",
-    "Équerre tp./images/Equerre_5_aluminium_deplacements.png",
-    "Équerre tp./images/Equerre_5_acier_deplacements.png",
     "Équerre tp./Équerre3 en aluminium(aliage type 1060).md",
     "Équerre tp./Équerre4 a.md",
-    "Équerre tp./images/Equerre1_BELLEC-Static 1-Résultats-Contraintes1.analysis.png",
-    "Équerre tp./images/Equerre_2_acier_contraintes.png",
-    "Équerre tp./images/screenshot 2.png",
     "Équerre tp./Équerre3 en PMMA.md",
     "Équerre tp./Équerre3 en acier(AISI 1020).md",
     "Équerre tp./Équerre2 en PMMA.md",
