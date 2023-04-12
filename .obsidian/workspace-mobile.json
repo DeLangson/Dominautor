@@ -11,11 +11,40 @@
             "id": "01445c2b3989f759",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Équerre tp./Équerre2 en acier(AISI 1020).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b52ec249e16d627e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Équerre tp./Équerre2 en aluminium(aliage type 1060).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93234c858f2b48de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Équerre tp./Équerre2 en PMMA.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Équerre tp./Équerre2 en PMMA.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Équerre tp./Équerre2 en PMMA.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +138,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Équerre tp./Équerre2 en PMMA.md"
+          }
         }
       }
     ],
@@ -124,13 +157,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "01445c2b3989f759",
+  "active": "93234c858f2b48de",
   "lastOpenFiles": [
+    "Équerre tp./Équerre1 en PMMA.md",
+    "Équerre tp./Équerre2 en aluminium(aliage type 1060).md",
+    "Équerre tp./Équerre1 en aluminium(aliage type 1060).md",
+    "Équerre tp./Équerre2 en acier(AISI 1020).md",
+    "Équerre tp./Équerre1 en acier(AISI 1020).md",
+    "Grand oral/Projet (Grand oral).md",
     "Grand oral/Démonstration de la surface d'un disque.md",
     "projet/readme.md",
-    "Grand oral/Projet (Grand oral).md",
-    "Équerre tp./Équerre1 en PMMA.md",
-    "Équerre tp./Équerre1 en aluminium(aliage type 1060).md",
     "Équerre tp./images/Equerre1_BELLEC-Static 2-Résultats-Déplacements1.analysis.png",
     "Équerre tp./images/Equerre_3-Static 2-Résultats-Contraintes1.analysis.png",
     "Équerre tp./images/Equerre_3-Static 3-Résultats-Contraintes1.analysis.png",
@@ -143,10 +179,7 @@
     "Équerre tp./images/Equerre_3-Static 3-Résultats-Déplacements1.analysis.png",
     "Équerre tp./images/Equerre_3-Static 2-Résultats-Déplacements1.analysis.png",
     "/Équerre tp./images",
-    "Équerre tp./Équerre1 en acier(AISI 1020).md",
     "Équerre tp./Équerre2 en PMMA.md",
-    "Équerre tp./Équerre2 en aluminium(aliage type 1060).md",
-    "Équerre tp./Équerre2 en acier(AISI 1020).md",
     "Sans titre.md",
     "Équerre tp.",
     "projet/Drawing 2023-03-31 09.12.28.excalidraw.md",
