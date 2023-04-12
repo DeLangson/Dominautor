@@ -6,4 +6,4 @@ On a donc la fonction $f(x) = \sqrt{1-x^2}>0$.
 On sait aussi que la surface d'une fonction entre sa courbe et l'axe des abscisses est son intégrale :
 Ici $\int_{-r}^{r}f(x)dx = S_{disque}$
 
-$\int_{-r}^{r}f(x)dx = []_{_$
+$\int_{-r}^{r}f(x)dx = []_{-r}^{r}$
