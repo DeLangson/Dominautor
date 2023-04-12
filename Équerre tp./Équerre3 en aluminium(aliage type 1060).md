@@ -1,1 +1,2 @@
 CHARGE :: 100N
+MASSE :: $g$
