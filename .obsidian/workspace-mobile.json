@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "screenshot 1.png"
+                "file": "Equerre_3_aluminium_deplacements.png"
               }
             }
           }
@@ -83,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "screenshot 1.png",
+            "file": "Equerre_3_aluminium_deplacements.png",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "screenshot 1.png",
+            "file": "Equerre_3_aluminium_deplacements.png",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "screenshot 1.png"
+            "file": "Equerre_3_aluminium_deplacements.png"
           }
         }
       }
@@ -130,19 +130,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "15524680258055ab",
+  "active": "dbd52e4609c1b614",
   "lastOpenFiles": [
-    "screenshot 2.png",
+    "Equerre_3_aluminium_contraintes 1.png",
+    "Équerre tp./images/Equerre_3_aluminium_contraintes.png",
+    "Équerre tp./images/Equerre_3_acier_deplacements.png",
+    "Équerre tp./images/Equerre3_acier_contraintes.png",
+    "Equerre_3_aluminium_deplacements.png",
     "screenshot 3.png",
     "screenshot 4.png",
-    "screenshot 1.png",
-    "screenshot.png",
-    "Équerre tp./images/Equerre3_.png",
     "Équerre tp./images/Equerre1_BELLEC-Static 3-Résultats-Contraintes1.analysis.png",
     "Équerre tp./images/Equerre1_BELLEC-Static 2-Résultats-Contraintes1.analysis.png",
     "Équerre tp./images/Equerre1_BELLEC-Static 2-Résultats-Déplacements1.analysis.png",
     "Équerre tp./images/Equerre1_BELLEC-Static 1-Résultats-Contraintes1.analysis.png",
-    "Équerre tp./images/Equerre_5_acier_contraintes.png",
     "Équerre tp./Équerre1 en acier(AISI 1020).md",
     "Équerre tp./Équerre2 en acier(AISI 1020).md",
     "Équerre tp./Équerre4 en acier(AISI 1020).md",
@@ -158,12 +158,12 @@
     "Équerre tp./Équerre2 en aluminium(aliage type 1060).md",
     "Grand oral/Projet (Grand oral).md",
     "Grand oral/Démonstration de la surface d'un disque.md",
-    "projet/readme.md",
+    "Équerre tp./images/projet/readme.md",
     "Équerre tp./images",
     "/Équerre tp./images",
     "Sans titre.md",
     "Équerre tp.",
-    "projet/Drawing 2023-03-31 09.12.28.excalidraw.md",
+    "Équerre tp./images/projet/Drawing 2023-03-31 09.12.28.excalidraw.md",
     "Grand oral",
     "projet/Sans titre"
   ]
