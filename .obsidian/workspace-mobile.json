@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "09e1d2bcebf0766b",
+        "id": "baf41e853aafbe47",
         "type": "tabs",
         "children": [
           {
-            "id": "15524680258055ab",
+            "id": "df7702c411e00206",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projet/readme.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "projet/readme.md",
+            "file": "Équerre tp./images/Equerre_2_PMMA_deplacements.png",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "projet/readme.md",
+            "file": "Équerre tp./images/Equerre_2_PMMA_deplacements.png",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +110,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "projet/readme.md"
+            "file": "Équerre tp./images/Equerre_2_PMMA_deplacements.png"
           }
         }
       }
@@ -134,11 +130,13 @@
   },
   "active": "dbd52e4609c1b614",
   "lastOpenFiles": [
+    "Equerre_1_acier_contraintes.png",
+    "projet/readme.md",
     "Équerre tp./images/Equerre_3_PMMA_deplacements.png",
     "Équerre tp./Équerre4 en acier(AISI 1020).md",
     "Équerre tp./Équerre3 en PMMA.md",
     "screenshot 3 1.png",
-    "Equerre_3_PMMA_contraintes.png",
+    "Équerre tp./images/Equerre_3_PMMA_contraintes.png",
     "Équerre tp./Équerre3 en acier(AISI 1020).md",
     "Équerre tp./Équerre3 en aluminium(aliage type 1060).md",
     "Équerre tp./Équerre1 en acier(AISI 1020).md",
@@ -159,7 +157,6 @@
     "Équerre tp./Équerre4 a.md",
     "Grand oral/Projet (Grand oral).md",
     "Grand oral/Démonstration de la surface d'un disque.md",
-    "projet/readme.md",
     "Équerre tp./images",
     "/Équerre tp./images",
     "Sans titre.md",
