@@ -6,6 +6,6 @@ On a donc la fonction $f(x) = \sqrt{1-x^2}>0$.
 On sait aussi que la surface d'une fonction entre sa courbe et l'axe des abscisses est son intégrale :
 Ici $\int_{-r}^{r}f(x)dx = S_{disque}$
 
-La primitive de $f(x)$ est $F(x)$ tel que $F(x)
+La primitive de $f(x)$ est $F(x)$ tel que $F'(x) = ku'\sqrt{u}$ 
 
 $\int_{-r}^{r}f(x)dx = []_{-r}^{r}$
