@@ -11,8 +11,12 @@
             "id": "df7702c411e00206",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Grand oral/Démonstration de la surface d'un disque.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Équerre tp./images/Equerre_2_PMMA_deplacements.png",
+            "file": "Grand oral/Démonstration de la surface d'un disque.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Équerre tp./images/Equerre_2_PMMA_deplacements.png",
+            "file": "Grand oral/Démonstration de la surface d'un disque.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -110,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Équerre tp./images/Equerre_2_PMMA_deplacements.png"
+            "file": "Grand oral/Démonstration de la surface d'un disque.md"
           }
         }
       }
@@ -128,7 +132,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dbd52e4609c1b614",
+  "active": "df7702c411e00206",
   "lastOpenFiles": [
     "Equerre_1_PMMA_deplacement.png",
     "Equerre_1_PMMA_contraintes.png",
