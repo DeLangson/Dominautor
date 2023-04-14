@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "baf41e853aafbe47",
+        "id": "e79562e646d9e826",
         "type": "tabs",
         "children": [
           {
-            "id": "df7702c411e00206",
+            "id": "424d07fc69fcfea4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grand oral/Démonstration de la surface d'un disque.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Grand oral/Démonstration de la surface d'un disque.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Grand oral/Démonstration de la surface d'un disque.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Grand oral/Démonstration de la surface d'un disque.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -132,8 +124,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "df7702c411e00206",
+  "active": "424d07fc69fcfea4",
   "lastOpenFiles": [
+    "Grand oral/Démonstration de la surface d'un disque.md",
     "Equerre_1_PMMA_deplacement.png",
     "Equerre_1_PMMA_contraintes.png",
     "Equerre_1_aluminium_deplacements.png",
@@ -157,10 +150,8 @@
     "Équerre tp./Équerre4 en aluminium(aliage type 1060).md",
     "Équerre tp./Équerre4 en PMMA.md",
     "Équerre tp./images/Equerre_3_aluminium_deplacements.png",
-    "Equerre_3_aluminium_contraintes 1.png",
     "Équerre tp./Équerre4 a.md",
     "Grand oral/Projet (Grand oral).md",
-    "Grand oral/Démonstration de la surface d'un disque.md",
     "Équerre tp./images",
     "/Équerre tp./images",
     "Sans titre.md",
