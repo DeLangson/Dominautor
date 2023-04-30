@@ -12,4 +12,4 @@ On sait aussi que la surface d'une fonction entre sa courbe et l'axe des absciss
 Ici $2\int_{-r}^{r}f(x)dx = S_{disque}$
 
 En supposant que $S_{disque} = πr^2$:
-$\int_{-r}^{r}f(x)dx = \frac$
+$\int_{-r}^{r}f(x)dx = \frac{1}{2} πr^2$
