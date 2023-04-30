@@ -14,4 +14,4 @@ Ici $2\int_{-r}^{r}f(x)dx = S_{disque}$
 En supposant que $S_{disque} = πr^2$:
 $\int_{-r}^{r}f(x)dx = \frac{1}{2} πr^2$
 
-$\int_{-r}^{r}f(x)dx = []
+$\int_{-r}^{r}f(x)dx = F(r)-F(-r) = πr^2$ 
