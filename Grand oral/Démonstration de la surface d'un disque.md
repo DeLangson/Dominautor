@@ -8,4 +8,4 @@ On sait aussi que $cos^{-1}(\frac{x}{r_{disque}}) = α$ et donc que l'équation 
 
 On a donc la fonction $f(x) = \sqrt{2\sqrt{r_{disque}}-x^2} = r_{disque} \times sin(cos^{-1}(\frac{x}{r_{disque}}))\geq0$.
 
-On sait que $\int_r_-r$
+Donc $\int_{r}^{0} = $
