@@ -6,7 +6,7 @@ Et donc que l'équation demi cercle défine sur $[-r_{disque};r_{disque}]$ est $
 
 On sait aussi que $cos^{-1}(\frac{x}{r_{disque}}) = α$ et donc que l'équation $y = r_{disque}\times sin(cos^{-1}(\frac{x}{r_{disque}}))$ est aussi l'équation demi cercle définie sur $[-r_{disque};r_{disque}]$.
 
-On a donc la fonction $f(x) = \sqrt{2\sqrt{r_{disque}}-x^2} = r_{disque} \times sin(cos^{-1}(x))\geq0$.
+On a donc la fonction $f(x) = \sqrt{2\sqrt{r_{disque}}-x^2} = r_{disque} \times sin(cos^{-1}(\frac{x}{r_{disque}}))\geq0$.
 
 On sait aussi que la surface d'une fonction entre sa courbe et l'axe des abscisses est son intégrale :
 Ici $2\int_{-r}^{r}f(x)dx = S_{disque}$
