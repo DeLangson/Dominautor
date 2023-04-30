@@ -8,10 +8,4 @@ On sait aussi que $cos^{-1}(\frac{x}{r_{disque}}) = α$ et donc que l'équation 
 
 On a donc la fonction $f(x) = \sqrt{2\sqrt{r_{disque}}-x^2} = r_{disque} \times sin(cos^{-1}(\frac{x}{r_{disque}}))\geq0$.
 
-On sait aussi que la surface d'une fonction entre sa courbe et l'axe des abscisses est son intégrale :
-Ici $2\int_{-r}^{r}f(x)dx = S_{disque}$
-
-En supposant que $S_{disque} = πr^2$:
-$\int_{-r}^{r}f(x)dx = \frac{1}{2} πr^2$
-
-$\int_{-r}^{r}f(x)dx = F(r)-F(-r) = πr^2$ 
+On sait que la surface se calcule grâce à 
