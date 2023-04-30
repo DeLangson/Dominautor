@@ -11,4 +11,5 @@ On a donc la fonction $f(x) = \sqrt{2\sqrt{r_{disque}}-x^2} = r_{disque} \times 
 On sait aussi que la surface d'une fonction entre sa courbe et l'axe des abscisses est son intégrale :
 Ici $2\int_{-r}^{r}f(x)dx = S_{disque}$
 
-Cela signifie que si 
+En supposant que $S_{disque} = πr^2$:
+$\int_{-r}^{r}f(x)dx = \frac$
