@@ -12,4 +12,4 @@ On sait que $f(0) = r$ donc $\int_{r}^{0} f(x) dx = F(0)-F(r)$
 
 $f(x)=\frac{u'}{2\sqrt{u}}$ ; $F(x)=\sqrt{u}$ 
 
-$\frac{u'}{2\sqrt{u}} = \sqrt{r_{disque}^2-x^2}$ ; $u' = 2\sqrt{u}\sqrt{r_{disque}^2-x^2}$ ; $u' = 2u^{\frac{1}{2}} + h(x)$ avec $h(x) = \sqrt{r_{disque}^2-x^2}$ 
+$\frac{u'}{2\sqrt{u}} = \sqrt{r_{disque}^2-x^2}$ ; $u' = 2\sqrt{u}\sqrt{r_{disque}^2-x^2}$ ; $u' = 2u^{\frac{1}{2}} \times h(x)$ avec $h(x) = \sqrt{r_{disque}^2-x^2}$ 
