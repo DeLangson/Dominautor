@@ -13,3 +13,5 @@ On sait que $f(0) = r$ donc $\int_{r}^{0} f(x) dx = F(0)-F(r)$
 $f(x)=\frac{u'}{2\sqrt{u}}$ ; $F(x)=\sqrt{u}$ 
 
 $\frac{u'}{2\sqrt{u}} = \sqrt{r_{disque}^2-x^2}$ 
+
+$\int_{b}^{a} f^2(x) = \int_{b}^{a}^2 f(x)$
