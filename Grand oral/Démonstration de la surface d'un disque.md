@@ -10,4 +10,4 @@ On a donc la fonction $f(x) = \sqrt{2\sqrt{r_{disque}}-x^2} = r_{disque} \times 
 
 On sait que $f(0) = r$ donc $\int_{r}^{0} f(x) dx = F(0)-F(r)$ 
 
-$f(\frac{u'}{2\sqrt{u}}$ ; $$
+$f(x)=\frac{u'}{2\sqrt{u}}$ ; $F(x)=\$
