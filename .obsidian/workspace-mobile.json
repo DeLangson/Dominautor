@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EQUERRE_TP/Équerre1 en aluminium(aliage type 1060).md",
+                "file": "EQUERRE_TP/Tableau.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EQUERRE_TP/Tableau.md",
+                "file": "EQUERRE_TP/Équerre1 en PMMA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,14 +144,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2040e1d040e80410",
+  "active": "1f370a84e29cfdfb",
   "lastOpenFiles": [
     "EQUERRE_TP/Équerre1 en aluminium(aliage type 1060).md",
+    "EQUERRE_TP/Équerre1 en PMMA.md",
+    "Equerre_1_PMMA_contraintes.png",
     "EQUERRE_TP/Tableau.md",
     "Grand oral/Démonstration de la surface d'un disque.md",
     "Grand oral/Projet (Grand oral).md",
     "Equerre_1_PMMA_deplacement.png",
-    "Equerre_1_PMMA_contraintes.png",
     "Equerre_1_aluminium_deplacements.png",
     "Equerre_1_aluminium_contraintes.png",
     "Equerre_1_acier_deplacements.png",
@@ -166,7 +166,6 @@
     "EQUERRE_TP/Équerre3 en acier(AISI 1020).md",
     "EQUERRE_TP/Équerre3 en aluminium(aliage type 1060).md",
     "EQUERRE_TP/Équerre1 en acier(AISI 1020).md",
-    "EQUERRE_TP/Équerre1 en PMMA.md",
     "EQUERRE_TP/Équerre2 en acier(AISI 1020).md",
     "EQUERRE_TP/Équerre2 en aluminium(aliage type 1060).md",
     "EQUERRE_TP/Équerre2 en PMMA.md",
