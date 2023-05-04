@@ -4,4 +4,4 @@ TABLE CHARGE, MASSE, CONTRAINTE, LIMITE_D_ELASTICITE, DEPLACEMENT, IMAGE_CONTRAI
 FROM "EQUERRE_TP"
 
 ```
-L'é
+L'équerre 4 en PMMA, l'équerre 1 en PMMA, l'équerre 3 en PMMA, l'équerre 3 en aluminium, 
