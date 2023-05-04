@@ -3,4 +3,5 @@ MASSE :: $132,97g$
 CONTRAINTE :: $3,590\times 10^{8}N\centerdot m^{-2}$ 
 LIMITE_D_ELASTICITE :: NON COMMUNIQUÉE(largement dépassée)
 DEPLACEMENT :: $30cm$
-IMAGE_CONTRAINTES :: ![[Equerre]]
+IMAGE_CONTRAINTES :: ![[Equerre_2_PMMA_contraintes.png]]
+IMAGE_DEPLACEMENTS :: ![[Equerre_2_PMMA_deplacements.png]]
