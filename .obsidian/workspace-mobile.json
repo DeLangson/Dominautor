@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f370a84e29cfdfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EQUERRE_TP/Tableau.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2040e1d040e80410",
             "type": "leaf",
             "state": {
@@ -30,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d73575fd6c7bcece",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EQUERRE_TP/Tableau.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,12 +145,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1f370a84e29cfdfb",
+  "active": "d73575fd6c7bcece",
   "lastOpenFiles": [
-    "EQUERRE_TP/Équerre1 en aluminium(aliage type 1060).md",
     "EQUERRE_TP/Équerre1 en PMMA.md",
-    "Equerre_1_PMMA_contraintes.png",
     "EQUERRE_TP/Tableau.md",
+    "EQUERRE_TP/Équerre1 en aluminium(aliage type 1060).md",
+    "Equerre_1_PMMA_contraintes.png",
     "Grand oral/Démonstration de la surface d'un disque.md",
     "Grand oral/Projet (Grand oral).md",
     "Equerre_1_PMMA_deplacement.png",
