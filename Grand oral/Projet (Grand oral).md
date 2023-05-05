@@ -28,7 +28,9 @@ Capteurs de couleur/luminosité
 
 L'appareil détecte l'intensité lumineuse (en fonction de différentes longueurs d'ondes pour le capteur de couleur.)
 
-La valeur détectée est analogique puis convertie en numérique ce qui permet d'avoir la valeur d'intensité lumineuse du capteur ou la couleur moyenne
+La valeur détectée est analogique puis convertie en numérique ce qui permet d'avoir la valeur d'intensité lumineuse du capteur ou la couleur moyenne.
+
+Pour notre projet, nous avons choisi deux capteurs de luminosité
 
 ### Asservissement:
 _ 
