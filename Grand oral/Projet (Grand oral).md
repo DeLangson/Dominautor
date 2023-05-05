@@ -35,7 +35,7 @@ La valeur détectée est analogique puis convertie en numérque.
 _Projection de lumière sur l'objet
 
 _Capteur photoélectrique:
-
+L
 
 ### Asservissement:
 _ 
