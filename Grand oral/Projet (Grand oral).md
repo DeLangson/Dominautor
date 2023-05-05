@@ -30,5 +30,7 @@ L'appareil détecte l'intensité lumineuse
 
 La valeur détectée est analogique puis convertie en numérque.
 
+
+
 ### Asservissement:
 _ 
