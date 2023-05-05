@@ -24,11 +24,13 @@ _ système bielle manivelle
 _ direction(programmation)
 
 ### Capteurs :
-_ Capteurs de couleur/luminosité
+Capteurs de couleur/luminosité
 
-L'appareil détecte l'intensité lumineuse
+L'appareil détecte l'intensité lumineuse (en fonction de différentes longueurs d'ondes pour le capteur de couleur.)
 
 La valeur détectée est analogique puis convertie en numérque.
+
+#### Physique :
 
 
 
