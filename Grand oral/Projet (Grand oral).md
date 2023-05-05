@@ -33,4 +33,4 @@ La valeur détectée est analogique puis convertie en numérique ce qui permet d
 Pour notre projet, nous avons choisi deux capteurs de luminosité car cela permet de suivre les deux limites de la ligne. Il serait aussi possible d'utiliser trois capteurs pour suivre les trois intensités sur et à côté de la ligne.
 
 ### Asservissement:
-_dont la valeur aura pour consigne une différence des deux valeurs nulle.
+La valeur aura pour consigne un écart des deux valeurs nulle.
