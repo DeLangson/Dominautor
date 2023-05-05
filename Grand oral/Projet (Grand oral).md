@@ -30,7 +30,7 @@ L'appareil détecte l'intensité lumineuse (en fonction de différentes longueur
 
 La valeur détectée est analogique puis convertie en numérique ce qui permet d'avoir la valeur d'intensité lumineuse du capteur ou la couleur moyenne.
 
-Pour notre projet, nous avons choisi deux capteurs de luminosité 
+Pour notre projet, nous avons choisi deux capteurs de luminosité dont la valeur aura pour consigne une différence des deux valeurs nulle.
 
 ### Asservissement:
-_ 
+_
