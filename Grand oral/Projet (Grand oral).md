@@ -25,4 +25,6 @@ Il serait aussi possible d'utiliser trois capteurs pour suivre les trois intensi
 
 ### Asservissement:
 
-L'asservissement a pour but de faire correspondre les actions en comparant la réalité avec 
+L'asservissement a pour but de faire correspondre les actions en comparant l'action avec la consigne.
+
+Il faut en permanence que le système puisse vérifier si les actions correspondent à 
