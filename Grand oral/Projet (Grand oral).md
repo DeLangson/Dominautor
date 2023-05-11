@@ -30,8 +30,3 @@ Pour notre projet, nous avons choisi deux capteurs de luminosité car cela perme
 
 ### Asservissement:
 La valeur aura pour consigne un écart des deux valeurs nulle.
-
-
-
-# Henttillckonhsttyhtuçsyaunnèaillehmant
-# Hypopomonstrosechipedaliophobie
