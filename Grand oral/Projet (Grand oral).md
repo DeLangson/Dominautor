@@ -29,4 +29,4 @@ Le but de l'asservissement est qu' il faut en permanence que le système puisse 
 
 Pour ce faire il y a plusieurs moyens de résoudre le problème.
 
-La première idée est une action proportionelle à l'écart de la consigne.
+La première idée est une action proportionelle à l'écart de la consigne. Cela donne une correction de l'erreur
