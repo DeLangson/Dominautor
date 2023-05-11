@@ -23,9 +23,6 @@ La valeur détectée est analogique puis convertie en numérique ce qui permet d
 Pour notre projet, nous avons choisi deux capteurs de luminosité car cela permet de suivre les deux limites de la ligne.
 Il serait aussi possible d'utiliser trois capteurs pour suivre les trois intensités sur et à côté de la ligne.
 
-### _Notre besoin: 
-
 ### Asservissement:
 
-L'asservissement a pour but de respecter la consigne en permanence en fonction de 
-La valeur aura pour consigne un écart des deux valeurs nulle.
+L'asservissement a pour but de 
