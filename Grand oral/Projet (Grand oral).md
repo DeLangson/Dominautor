@@ -20,9 +20,9 @@ L'effet photoélectrique peut être utilisé pour mesurer la lumière réfléchi
 
 La valeur détectée est analogique puis convertie en numérique ce qui permet d'avoir la valeur d'intensité lumineuse du capteur ou la couleur moyenne.
 
-Pour notre projet, nous avons choisi deux capteurs de luminosité car cela permet de suivre les deux limites de la ligne.
+Pour notre projet, nous avons choisi deux capteurs de luminosité car cela permet de suivre les deux limites d'une ligne noire sur blanc.
 Il serait aussi possible d'utiliser trois capteurs pour suivre les trois intensités sur et à côté de la ligne.
 
 ### Asservissement:
 
-Le but de l'asservissement est qu' il faut en permanence que le système puisse vérifier si les actions correspondent à la consigne car il peut ya avoir un changement de la consigne ou un facteur extér
+Le but de l'asservissement est qu' il faut en permanence que le système puisse vérifier si les actions correspondent à la consigne car il peut ya avoir un changement de la consigne ou un facteur extérieur. Par exemple, si notre robot détecte un déséquilibre entre la luminosité des deux capteur, il faudra effectuer un changement de direction des roues
