@@ -25,4 +25,6 @@ Il serait aussi possible d'utiliser trois capteurs pour suivre les trois intensi
 
 ### Asservissement:
 
-Le but de l'asservissement est qu' il faut en permanence que le système puisse vérifier si les actions correspondent à la consigne car il peut ya avoir un changement de la consigne ou un facteur extérieur. Par exemple, si notre robot détecte un déséquilibre entre la luminosité des deux capteur, il faudra effectuer un changement de direction des roues
+Le but de l'asservissement est qu' il faut en permanence que le système puisse vérifier si les actions correspondent à la consigne car il peut ya avoir un changement de la consigne ou un facteur extérieur. Par exemple, si notre robot détecte un déséquilibre entre la luminosité des deux capteur, il faudra effectuer un changement de direction des roues. Sinon, le robot rencontre une bosse et qu'il est dévié, il devra se remettre imédiatement sur la bonne direction.
+
+Pour ce faire il y a plusieurs moyens de 
