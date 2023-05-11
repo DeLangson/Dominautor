@@ -25,4 +25,4 @@ Il serait aussi possible d'utiliser trois capteurs pour suivre les trois intensi
 
 ### Asservissement:
 
-L'asservissement a pour but de 
+L'asservissement a pour but de faire correspondre les actions en comparant la réalité avec 
