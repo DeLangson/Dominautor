@@ -5,7 +5,6 @@
 ### _Exposer la problématique :
 Un robot : KÉZAKO!?
 Le préjugé : Non, c'est pas le truc machin qui fait bib bib ou qui parle métaliquement.
-La réalité ou pas : 
 
 On s'intéresse à un robot qui se déplace en autonomie en suivant le tracé de la route.
 
