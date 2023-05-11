@@ -15,7 +15,7 @@ Comment peut-on
 ### _Notre besoin:
 Placement automatique et guidé par le sol  des dominos. (Machine de Rube Goldberg)
 
-Il faut un algorithme 
+Il faut un système capable de rendre autonome
 
 ### Capteurs :
 Capteurs de couleur/luminosité
