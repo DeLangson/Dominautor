@@ -15,12 +15,7 @@ Comment peut-on
 ### _Notre besoin:
 Placement automatique et guidé par le sol  des dominos. (Machine de Rube Goldberg)
 
-### Solution(ou pas):
-_ Le grand bloc non maniable.(différentiel)
-_ La remorque (mieux)
-_ Suivi de ligne (à développer)
-_ système bielle manivelle
-_ direction(programmation)
+Il faut un algorithme 
 
 ### Capteurs :
 Capteurs de couleur/luminosité
