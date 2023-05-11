@@ -9,12 +9,14 @@ Le préjugé : Non, c'est pas le truc machin qui fait bib bib ou qui parle méta
 ### _Notre besoin:
 Placement automatique et guidé par le sol  des dominos. (Machine de Rube Goldberg)
 
-Il faut un système capable de rendre autonome le déplacement en fonction du tracé de la route.
+Il faut un système capable de rendre autonome le déplacement du robot en fonction du tracé de la route.
 
 ### Capteurs :
 Capteurs de couleur/luminosité
 
 L'appareil détecte l'intensité lumineuse (en fonction de différentes longueurs d'ondes pour le capteur de couleur.)
+
+L'effet photoélectrique peut être utilisé pour mesurer la lumière réfléchie ou émise par l'environnement ou celle de l'envi
 
 La valeur détectée est analogique puis convertie en numérique ce qui permet d'avoir la valeur d'intensité lumineuse du capteur ou la couleur moyenne.
 
