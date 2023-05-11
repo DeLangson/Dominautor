@@ -10,7 +10,7 @@ On s'intéresse à un robot qui se déplace en autonomie en suivant le tracé de
 
 En réalité le robot n'est autonome qu'après une programation particulière et entièrement prévue par les humains après de nombreux échecs.
 
-Comment peut-on rendre autonome un robot dont la 
+Comment peut-on rendre autonome un robot dont une tâche consiste à se déplacer selon le tracé de la route?
 
 ### _Notre besoin:
 Placement automatique et guidé par le sol  des dominos. (Machine de Rube Goldberg)
