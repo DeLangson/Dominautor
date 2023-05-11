@@ -27,5 +27,5 @@ Il serait aussi possible d'utiliser trois capteurs pour suivre les trois intensi
 
 ### Asservissement:
 
-L'asservissement a pour but de 
+L'asservissement a pour but de respecter la consigne en permanence en fonction de 
 La valeur aura pour consigne un écart des deux valeurs nulle.
