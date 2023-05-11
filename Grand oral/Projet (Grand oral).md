@@ -7,7 +7,7 @@ Un robot : KÉZAKO!?
 Le préjugé : Non, c'est pas le truc machin qui fait bib bib ou qui parle métaliquement.
 La réalité ou pas : 
 
-On s'intéresse à un robot qui se déplace en autonomie.
+On s'intéresse à un robot qui se déplace en autonomie en suivant le tracé de la route.
 
 En réalité le robot n'est autonome qu'après une programation particulière et entièrement prévue par les humains après de nombreux échecs.
 
