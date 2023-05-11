@@ -27,5 +27,5 @@ Il serait aussi possible d'utiliser trois capteurs pour suivre les trois intensi
 
 ### Asservissement:
 
-L'asservissement 
+L'asservissement a pour but de 
 La valeur aura pour consigne un écart des deux valeurs nulle.
