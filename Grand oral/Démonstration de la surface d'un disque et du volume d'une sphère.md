@@ -26,4 +26,8 @@ $S = πR^2$
 ## On cherche à démontrer pourquoi $V_{sphere} = \frac{4}{3}πr^3$.
 
 Soit $O$ en $(0;0;0)$ le centre de la sphère $G$ et le plan $P : x+y=0$ :
-Soit $A$ appartenant à $G$ et $B$ le projeté orthogonal
+Soit $A$ appartenant à $G$ et $B$ le projeté orthogonal de $A$ sur $P$.
+
+$OA$ est le rayon de $G$
+
+On sait par Pytagore que 
