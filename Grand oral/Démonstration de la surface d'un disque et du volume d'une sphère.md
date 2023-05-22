@@ -32,4 +32,6 @@ Soit $Z$, projeté orthogonal de $A$ sur l'axe $z$.
 $OA$ est le rayon de $G$ et $ZA = OB$ est le rayon du cercle de centre $Z$ passant par A.
 
 On sait par Pytagore que $OA^2 = AB^2 + OB^2$
-Avec $OA=R$ et $AB = z$ on a la fonction $r(z) = \sqrt{}
+Avec $OA=R$ et $AB = z$ on a la fonction $r(z) = \sqrt{R^2-z^2}$ tel que $r^2(z) = R^2 - z^2$
+
+Le volume de $G$ est don
