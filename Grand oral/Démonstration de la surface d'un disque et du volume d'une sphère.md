@@ -4,3 +4,5 @@
 On cherche à démontrer pourquoi $S_{disque} = πr_{disque}^2$ .
 
 On sait par Pytagore que : $y = \sqrt{R^2-x^2}$ ce qui nous donne $f(x) = \sqrt{R^2-x^2}$.
+La surface du disque est donc $S = \int_0^r \sqrt{R^2-x^2} dx$:
+
