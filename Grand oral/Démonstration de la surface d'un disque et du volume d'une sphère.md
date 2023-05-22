@@ -14,4 +14,5 @@ $S = \int_0^{\frac{π}{2}} \sqrt{R^2(1-sin^2(θ))} R cos(θ)dθ$
 $S = R\int_0^{\frac{π}{2}} \sqrt{1-sin^2(θ)} R cos(θ)dθ$
 $S = R^2\int_0^{\frac{π}{2}} \sqrt{1-sin^2(θ)} cos(θ)dθ$
 On sait que $cos^2(θ) + sin^2(θ) = 1$ et donc que $cos(θ) = \sqrt{1-sin(θ)}$ :
-$S = R^2\int_0^{\frac{π}{2}} cos(θ)dθ$
+$S = R^2\int_0^{\frac{π}{2}}cos^2(θ)dθ$
+$S = R^2\int_0^{\frac{π}{2}}cos^2(θ)dθ$
