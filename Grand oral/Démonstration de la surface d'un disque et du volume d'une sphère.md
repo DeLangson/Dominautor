@@ -27,7 +27,8 @@ $S = πR^2$
 
 Soit $O$ en $(0;0;0)$ le centre de la sphère $G$ et le plan $P : x+y=0$ :
 Soit $A$ appartenant à $G$ et $B$ le projeté orthogonal de $A$ sur $P$.
+Soit $Z$ 
 
-$OA$ est le rayon de $G$
+$OA$ est le rayon de $G$ et 
 
 On sait par Pytagore que 
