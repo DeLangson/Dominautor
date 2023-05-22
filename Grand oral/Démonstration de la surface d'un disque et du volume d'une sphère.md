@@ -12,4 +12,5 @@ Aussi $dx = R cos(θ)$.
 $S = \int_0^{\frac{π}{2}} \sqrt{R^2-(R sin(θ))^2} R  cos(θ)dθ$
 $S = \int_0^{\frac{π}{2}} \sqrt{R^2(1-sin^2(θ))} R cos(θ)dθ$
 $S = R\int_0^{\frac{π}{2}} \sqrt{1-sin^2(θ)} R cos(θ)dθ$
-$S = R\int_0^{\frac{π}{2}} \sqrt{1-sin^2(θ)} R cos(θ)dθ$
+$S = R^2\int_0^{\frac{π}{2}} \sqrt{1-sin^2(θ)} cos(θ)dθ$ ; On sait que $cos^2
+$S = R^2\int_0^{\frac{π}{2}} \sqrt{1-sin^2(θ)} cos(θ)dθ$
