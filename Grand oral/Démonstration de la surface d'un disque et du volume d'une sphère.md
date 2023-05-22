@@ -3,4 +3,4 @@
 
 On cherche à démontrer pourquoi $S_{disque} = πr_{disque}^2$ .
 
-On sait que 
+On sait par Pytagore que : $y = \sqrt{R^2-x^2}$ ce qui nous donne $f(x) = \sqrt{R^2-x^2}$.
