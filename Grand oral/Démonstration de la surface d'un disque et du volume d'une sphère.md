@@ -19,4 +19,5 @@ $S = 4R^2\int_0^{\frac{π}{2}}cos^2(θ)dθ$
 On sait que $cos(2θ) = cos(θ)cos(θ)-sin(θ)sin(θ) = cos^2(θ) -sin^2(θ)  = cos^2(θ)-(1-cos^2(θ)) = 2cos^2(θ)-1$
 $cos^2(θ) = \frac{1+cos(2θ)}{2}$
 $S = 2R^2\int_0^\frac{π}{2} 1+cos(2θ) dθ$
-$S = 2R^2\int_0^\frac{π}{2} 1+cos(2θ) dθ$
+$S = 2R^2 [θ+\frac{sin(2θ)}{2}]_0^\frac{π}{2}$
+$S = 2R^2 [θ+\frac{sin(2θ)}{2
