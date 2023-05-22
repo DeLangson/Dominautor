@@ -23,4 +23,6 @@ $S = 2R^2 [θ+\frac{sin(2θ)}{2}]_0^\frac{π}{2}$
 $S = 2R^2(\frac{π}{2}+\frac{sin(π)}{2}-0-\frac{sin(0)}{2})$
 $S = πR^2$
 
-## On cherche à démontrer pou
+## On cherche à démontrer pourquoi $V_{sphere} = \frac{4}{3}πr^3$.
+
+On sait par Pytagore que 
