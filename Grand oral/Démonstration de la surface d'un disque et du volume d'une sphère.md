@@ -10,4 +10,6 @@ On cherche la primitive de $\sqrt{R^2-x^2}$ mais il n'y en a pas donc il faut po
 Aussi $dx = R cos(θ)$.
 
 $S = \int_0^{\frac{π}{2}} \sqrt{R^2-(R sin(θ))^2} R  cos(θ)dθ$
-$S = \int_0^{\frac{π}{2}} \sqrt{R^2(1-sin(θ))} R cos(θ)dθ$ 
+$S = \int_0^{\frac{π}{2}} \sqrt{R^2(1-sin^2(θ))} R cos(θ)dθ$
+$S = R\int_0^{\frac{π}{2}} \sqrt{1-sin^2(θ)} R cos(θ)dθ$
+$S = R\int_0^{\frac{π}{2}} \sqrt{1-sin^2(θ)} R cos(θ)dθ$
