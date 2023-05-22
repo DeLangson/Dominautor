@@ -23,7 +23,7 @@ $S = 2R^2 [θ+\frac{sin(2θ)}{2}]_0^\frac{π}{2}$
 $S = 2R^2(\frac{π}{2}+\frac{sin(π)}{2}-0-\frac{sin(0)}{2})$
 $S = πR^2$
 
-## On cherche à démontrer pourquoi $V_{sphere} = \frac{4}{3}πr^3$.
+## On cherche à démontrer que $V_{sphere} = \frac{4}{3}πr^3$.
 
 Soit $O$ en $(0;0;0)$ le centre de la sphère $G$ et le plan $P : x+y=0$ :
 Soit $A$ appartenant à $G$ et $B$ le projeté orthogonal de $A$ sur $P$.
