@@ -31,4 +31,5 @@ Soit $Z$, projeté orthogonal de $A$ sur l'axe $z$.
 
 $OA$ est le rayon de $G$ et $ZA = OB$ est le rayon du cercle de centre $Z$ passant par A.
 
-On sait par Pytagore que 
+Posons $OA = R$
+On sait par Pytagore que $R^2 = AB^2 + 
