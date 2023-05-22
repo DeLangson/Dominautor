@@ -25,4 +25,4 @@ $S = πR^2$
 
 ## On cherche à démontrer pourquoi $V_{sphere} = \frac{4}{3}πr^3$.
 
-On sait par Pytagore que 
+Soit $O$ en $() le centre de la sphère $G$ et $P$ Le plan
