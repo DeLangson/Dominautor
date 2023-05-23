@@ -38,4 +38,5 @@ Le volume de $G$ est donc la somme infinitésimale des aires de disques de rayon
 
 $V_G = π\int_{-R}^R r^2(z) dz$
 $V_G = π[R^2z -\frac{1}{3}z^3]_{-R}^R$
-$V_G = π
+$V_G = 2π(R^2R-\frac{1}{3}R^3)$
+$V_G = 2π
