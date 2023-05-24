@@ -20,5 +20,6 @@ Pour faire plus clair, c'est comme si on découpait un domaine en parties infini
 
 Dans le cas du disque, on peut par exemple, faire l'intégrale de la fonction $f(x) = \sqrt{R^2-x^2}$ :
 
-*Montrer le support* :
+*Montrer le support* : avec le graphique sur la feuille.
 
+Il suffit de faire la somme des surfaces infiniment petites de longueur $f(x)
