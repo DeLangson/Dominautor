@@ -15,4 +15,4 @@ Alors comment peut-on expliquer comment démontrer ces formules?
 Nous avons commencé cette année a parler de ce qu'on appelle l'intégration.
 Ça consiste a faire la somme infinitésimale des parties d'un domaine défini par une ou plusieurs variables.
 
-Pour faire plus clair, c'est comme si on découpait un domaine en parties infiniment petites et qu'on en faisait la somme. Et là c'est tout d'un coup plus pratique pour la mesure des formes qu'on ne peut pas 
+Pour faire plus clair, c'est comme si on découpait un domaine en parties infiniment petites et qu'on en faisait la somme. Et là c'est tout d'un coup plus pratique pour la mesure des formes qu'on arrive pas à comprendre : comme le cercle par exemple.
