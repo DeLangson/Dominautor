@@ -6,7 +6,7 @@
 On sait par Pytagore que : $y = \sqrt{R^2-x^2}$ ce qui nous donne $f(x) = \sqrt{R^2-x^2}$.
 La surface du disque est donc $S = \int_0^r \sqrt{R^2-x^2} dx$:
 
-On cherche la primitive de $\sqrt{R^2-x^2}$ mais il n'y a pas de formule qui coresponde donc il faut poser: $x = R sin(θ)$ car nous savons que x st compris entre $0$ et $R$ et que $R sin(θ)$ est compris entre $0$ et $R$.
+On cherche la primitive de $\sqrt{R^2-x^2}$ mais il n'y a pas de formule qui coresponde donc il faut poser: $x = R sin(θ)$ en passant des coordonnées cartésiennes aux coordonnées polaires car nous savons que x st compris entre $0$ et $R$ et que $R sin(θ)$ est compris entre $0$ et $R$.
 Aussi $dx = R cos(θ)d(θ)$
 
 $S = 4\int_0^{\frac{π}{2}} \sqrt{R^2-(R sin(θ))^2} R  cos(θ)dθ$
