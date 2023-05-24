@@ -18,8 +18,10 @@ Nous avons commencé cette année a parler de ce qu'on appelle l'intégration.
 
 Pour faire plus clair, c'est comme si on découpait un domaine en parties infiniment petites et qu'on en faisait la somme. Et là c'est tout d'un coup plus pratique pour la mesure des formes qu'on arrive pas à comprendre : comme le cercle par exemple.
 
-Dans le cas du disque, on peut par exemple, faire l'intégrale de la fonction $f(x) = \sqrt{R^2-x^2}$ :
+Dans le cas du disque, on peut par exemple, faire l'intégrale de la fonction $f(x) = \sqrt{R^2-x^2}$ qui fait un demi cercle:
 
 *Montrer le support* : avec le graphique sur la feuille.
 
-Il suffit de faire la somme des surfaces infiniment petites de longueur $f(x)$ et de largeur $dx$, une partie infiniment petite de 
+Il suffit de faire la somme des surfaces infiniment petites de longueur $f(x)$ et de largeur $dx$, une partie infiniment petite du diamètre du cercle.
+
+Maintenat dans le cours 
