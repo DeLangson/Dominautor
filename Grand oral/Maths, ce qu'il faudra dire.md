@@ -1,5 +1,5 @@
 Le cercle et la sphère, c'est intriguant, c'est pas non plus très pratique à mesurer.
-Un cercle ou une sphère, c'est pas comme une rectangle ou une bloc, on peut les mesurer avec une règle.
+Un cercle ou une sphère, c'est pas comme une rectangle ou une bloc qu'on peut les mesurer avec une règle.
 
 On sait que les collégiens apprennent comment on calcule la surface du disque et le volume de la sphère :
 $S = πr^2$ ; $V = \frac{4}{3}πr^3$ 
