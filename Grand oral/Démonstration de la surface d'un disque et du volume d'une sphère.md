@@ -16,11 +16,11 @@ $S = 4R^2\int_0^{\frac{π}{2}} \sqrt{1-cos^2(θ)} sin(θ)dθ$
 On sait que $cos^2(θ) + sin^2(θ) = 1$ et donc que $sin(θ) = \sqrt{1-cos(θ)}$ :
 $S = 4R^2\int_0^{\frac{π}{2}}sin^2(θ)dθ$
 $S = 4R^2\int_0^{\frac{π}{2}}sin^2(θ)dθ$
-On sait que $sin(2θ) = sin(θ)sin(θ)-cos(θ)cos(θ) = cos^2(θ) -sin^2(θ)  = sin^2(θ)-(1-sin^2(θ)) = 2cos^2(θ)-1$
-$cos^2(θ) = \frac{1+cos(2θ)}{2}$
-$S = 2R^2\int_0^\frac{π}{2} 1+cos(2θ) dθ$
-$S = 2R^2 [θ+\frac{sin(2θ)}{2}]_0^\frac{π}{2}$
-$S = 2R^2(\frac{π}{2}+\frac{sin(π)}{2}-0-\frac{sin(0)}{2})$
+On sait que $sin(2θ) = sin(θ)sin(θ)-cos(θ)cos(θ) = sin^2(θ) -cos^2(θ)  = sin^2(θ)-(1-sin^2(θ)) = 2sin^2(θ)-1$
+$sin^2(θ) = \frac{1+sin(2θ)}{2}$
+$S = 2R^2\int_0^\frac{π}{2} 1+sin(2θ) dθ$
+$S = 2R^2 [θ+\frac{cos(2θ)}{2}]_0^\frac{π}{2}$
+$S = 2R^2(\frac{π}{2}+\frac{cos(π)}{2}-0-\frac{cos(0)}{2})$
 $S = πR^2$
 
 ## On cherche à démontrer que $V_{sphere} = \frac{4}{3}πr^3$
