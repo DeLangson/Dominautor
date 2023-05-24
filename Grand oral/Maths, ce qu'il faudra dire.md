@@ -1,9 +1,9 @@
+Le cercle et la sphère, c'est intriguant, c'est pas non plus très pratique à mesurer.
+
 On sait que les collégiens apprennent comment on calcule la surface du disque et le volume de la sphère :
 $S = πr^2$ ; $V = \frac{4}{3}πr^3$ 
 
-Le cercle, c'est intriguant, c'est pas non plus très pratique à mesurer.
-
-On nous les a données comme ça sans nous expliquer pourquoi.
+On nous les a données comme ça sans nous expliquer comment.
 En fait le but de nous les donner, c'était juste pour qu'on puisse les utiliser, les appliquer.
 
 Évidement, quelqu'un les a trouvées ces formules.
@@ -15,4 +15,4 @@ Alors comment peut-on expliquer comment démontrer ces formules?
 Nous avons commencé cette année a parler de ce qu'on appelle l'intégration.
 Ça consiste a faire la somme infinitésimale des parties d'un domaine défini par une ou plusieurs variables.
 
-Pour faire plus clair, c'est comme si on découpait un domaine en parties infiniment petites et qu'on en faisait la somme 
+Pour faire plus clair, c'est comme si on découpait un domaine en parties infiniment petites et qu'on en faisait la somme. Et là c'est tout d'un coup plus pratique pour la mesure des formes qu'on ne peut pas 
