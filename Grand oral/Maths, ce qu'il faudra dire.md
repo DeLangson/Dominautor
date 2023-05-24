@@ -13,4 +13,4 @@ Le plus intéressant dans les mathématiques c'est la démonstration (du moins p
 Alors comment peut-on expliquer comment démontrer ces formules?
 
 Nous avons commencé cette année a parler de ce qu'on appelle l'intégration.
-Ça consiste a faire la somme infinitésimale des parties d'un doma
+Ça consiste a faire la somme infinitésimale des parties d'un domaine défini par une ou plusieurs variables.
