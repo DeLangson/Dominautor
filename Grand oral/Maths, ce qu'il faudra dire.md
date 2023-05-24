@@ -24,3 +24,4 @@ Dans le cas du disque, on peut par exemple, faire l'intégrale de la fonction $f
 
 Il suffit de faire la somme des surfaces infiniment petites de longueur $f(x)$ et de largeur $dx$, une partie infiniment petite du diamètre du cercle.
 
+On peut aussi 
