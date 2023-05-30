@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grand oral/Maths, ce qu'il faudra dire.md",
+                "file": "Grand oral/Démonstration de la surface d'un disque et du volume d'une sphère.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Grand oral/Maths, ce qu'il faudra dire.md",
+            "file": "Grand oral/Démonstration de la surface d'un disque et du volume d'une sphère.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Grand oral/Maths, ce qu'il faudra dire.md",
+            "file": "Grand oral/Démonstration de la surface d'un disque et du volume d'une sphère.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Grand oral/Maths, ce qu'il faudra dire.md"
+            "file": "Grand oral/Démonstration de la surface d'un disque et du volume d'une sphère.md"
           }
         }
       }
@@ -142,8 +142,8 @@
   },
   "active": "dbd52e4609c1b614",
   "lastOpenFiles": [
-    "Grand oral/Projet (Grand oral).md",
     "Grand oral/Maths, ce qu'il faudra dire.md",
+    "Grand oral/Projet (Grand oral).md",
     "Grand oral/Démonstration de la surface d'un disque et du volume d'une sphère.md",
     "Grand oral/Nouvelle méthode de déponstration de la surface d'un disque et du volume d'une sphère..md",
     "EQUERRE_TP/Tableau.md",
