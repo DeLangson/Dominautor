@@ -27,4 +27,4 @@ Il suffit de faire la somme des surfaces infiniment petites de longueur $f(x)$ e
 *Sur la feuille* : Sur le papier ça se note comme ça :
 $S = 4\int_{0}^{R} \sqrt{R^2-x^2}dx$
 
-On peut aussi découper 
+On peut aussi utiliser une autre méthode :
