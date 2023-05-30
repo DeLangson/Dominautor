@@ -30,4 +30,4 @@ Le but de l'asservissement est qu' il faut en permanence que le système puisse 
 Pour ce faire il y a plusieurs moyens de résoudre le problème.
 
 La première idée est une action proportionelle à l'écart de la consigne.
-Imaginons que la différence entre le capteur de droite et celui de gauche est de -30% de luminosité par rapport à la luminosité maximale, le système devra effectuer une action de $\frack \times -0,3$ sur la vitesse
+Imaginons que la différence entre le capteur de droite et celui de gauche est de -30% de luminosité par rapport à la luminosité maximale, le système devra mettre la vitesse du moteur de droite à$\frac{k}{2} \times -0,3$
