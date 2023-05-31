@@ -28,3 +28,6 @@ Il suffit de faire la somme des surfaces infiniment petites de longueur $f(x)$ e
 $S = 4\int_{0}^{R} \sqrt{R^2-x^2}dx$
 
 On peut aussi utiliser une autre méthode :
+
+En utilisant les coordonnées polaires plutôt que les coordonnées cartésiennes :
+
