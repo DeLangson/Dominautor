@@ -27,5 +27,6 @@ Il suffit de faire la somme des surfaces infiniment petites de longueur $f(x)$ e
 *Sur la feuille* : Sur le papier ça se note comme ça :
 $S = 4\int_{0}^{R} \sqrt{R^2-x^2}dx$
 
-Nous avons vu en cours que pour le calculer, il faut déterminer la primitive de $\sqrt{R^2-x^2}
-Le problème c'est qu'il n'existe pas de formule de primitive qui 
+Nous avons vu en cours que pour le calculer, il faut déterminer la primitive de $\sqrt{R^2-x^2}$.
+Le problème c'est qu'il n'existe pas de formule de primitive qui permette de calculer cette intégrale.
+
