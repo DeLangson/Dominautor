@@ -31,4 +31,4 @@ On peut aussi utiliser une autre méthode :
 
 En utilisant les coordonnées polaires plutôt que les coordonnées cartésiennes :
 
-Soit un point appartenant à un cercle de rayon $r
+Soit un point appartenant à un cercle de rayon $r$ et L'angle $θ$ 
