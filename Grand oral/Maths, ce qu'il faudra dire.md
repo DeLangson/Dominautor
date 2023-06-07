@@ -46,4 +46,5 @@ En faisant le calcul de primitive on obtient bien:
 
 $S = \int_0^R[θr]_0^{2π}dr$
 $S = \int_0^R2πrdr$ 
-$S = \int_0^R2πr
+$S = \int_0^R[πr^2]_0$
+$
