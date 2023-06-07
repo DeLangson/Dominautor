@@ -59,4 +59,4 @@ Le volume du cylindre se calcule de la manière suivante : $V = πr^2 dz$.
 
 *Montrer le schéma*
 
-D'après le théorème de Pytagore : $R = r^2 + z^2$ avec $r$ variant de $0$ à $R$ 
+D'après le théorème de Pytagore : $R^2 = r^2 + z^2$ donc $r^2 = R^2 - z^2$ 
