@@ -32,4 +32,6 @@ Le problème c'est qu'il n'existe pas de formule de primitive qui permette de ca
 
 Mais il existe une autre méthode :
 
-En utilisant les coordonnées polaires, on a un point dans l'espace sur un cercle de rayon $r$ et d'angle $θ$ au lieu de $
+En utilisant les coordonnées polaires, on a un point dans l'espace sur un cercle de rayon $r$ et d'angle $θ$ au lieu de $x$ et $y$ en coordonnées cartésiennes.
+
+Nous allons donc faire la somme de toutes les variation d'angles fois le rayon fois 
