@@ -51,3 +51,4 @@ $S = πR^2$
 
 Maintenant que nous avons la surface du disque, on peut l'utiliser pour démontrer le volume d'une sphère.
 
+Si on décompose le volume comme la somme de toutes les surfaces variantes sur l'intervalle $[-R;R]$ on peut toujours faire une intégrale pour 
