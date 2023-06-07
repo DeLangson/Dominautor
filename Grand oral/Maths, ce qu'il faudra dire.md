@@ -49,10 +49,12 @@ $S = \int_0^R2πrdr$
 $S = [πr^2]_0^R$
 $S = πR^2$ 
 
+On retrouve donc bien la formule $S = πr^2$.
+
 Maintenant que nous avons la surface du disque, on peut l'utiliser pour démontrer le volume d'une sphère.
 
 Si on décompose le volume comme la somme de toutes les surfaces variantes sur l'intervalle $[-R;R]$ on peut toujours faire une intégrale pour le calculer.
 
 *Montrer le schéma*
 
-D'après le théorème de Pytagore : $R = r^2 + z^2$ 
+D'après le théorème de Pytagore : $R = r^2 + z^2$ avec $r$ variant de $0$ à $R$ 
