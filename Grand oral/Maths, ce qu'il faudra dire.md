@@ -34,4 +34,10 @@ Mais il existe une autre méthode :
 
 En utilisant les coordonnées polaires, on a un point dans l'espace sur un cercle de rayon $r$ et d'angle $θ$ au lieu de $x$ et $y$ en coordonnées cartésiennes.
 
-Nous allons donc faire la somme de toutes les variation d'angles fois le rayon fois 
+Cela semble bien plus facile à comprendre dans un repère adapté à la forme du cercle.
+
+Nous allons donc faire la somme de toutes les variation d'angles fois le rayon $rdθ$ fois la somme de toutes les variations de longueur du rayon, $dr$.
+
+Montrer le schéma.
+
+Cela nous donne : $\int
