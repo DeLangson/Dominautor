@@ -53,7 +53,7 @@ On retrouve donc bien la formule $S = πr^2$.
 
 Maintenant que nous avons la surface du disque, on peut l'utiliser pour démontrer le volume d'une sphère.
 
-Si on décompose le volume comme la somme de toutes les surfaces variantes sur l'intervalle $[-R;R]$ on peut toujours faire une intégrale pour le calculer.
+Si on décompose le volume comme la somme de tous les cylindres de sur variantes sur l'intervalle $[-R;R]$ on peut toujours faire une intégrale pour le calculer.
 
 *Montrer le schéma*
 
