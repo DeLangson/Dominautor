@@ -55,6 +55,6 @@ Si on décompose le volume comme la somme de toutes les surfaces variantes sur l
 
 *Montrer le schéma*
 
-D'après le théorème de Pytagore : 
+D'après le théorème de Pytagore : $R = r^2 + z^2$ avec 
 
 **
