@@ -40,4 +40,4 @@ Nous allons donc faire la somme de toutes les variation d'angles fois le rayon $
 
 Montrer le schéma.
 
-Cela nous donne : $\int
+Cela nous donne : $\int_0^R\int_0^{2π} rdθdr$ 
