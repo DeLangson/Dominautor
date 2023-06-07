@@ -55,7 +55,7 @@ Maintenant que nous avons la surface du disque, on peut l'utiliser pour démontr
 
 Si on décompose le volume comme la somme de tous les cylindres de hauteur $dz$ suffisamment petite et de rayon $r$ variant sur l'intervalle $[-R;R]$ on peut encore faire une intégrale pour le calculer.
 
-Le volume du cylindre se calcule de la manière suivante : $V = πr^2 dz$
+Le volume du cylindre se calcule de la manière suivante : $V = πr^2 dz$.
 
 *Montrer le schéma*
 
