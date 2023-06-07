@@ -40,4 +40,8 @@ Nous allons donc faire la somme de toutes les variation d'angles fois le rayon $
 
 Montrer le schéma.
 
-Cela nous donne : $\int_0^R\int_0^{2π} rdθdr$ 
+Cela nous donne : $\int_0^R\int_0^{2π} rdθdr$.
+
+En faisant le calcul de primitive on obtient bien:
+
+$\int_0^R[θr]_0^2πdr
