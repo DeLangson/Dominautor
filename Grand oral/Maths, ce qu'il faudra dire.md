@@ -64,4 +64,5 @@ Le volume de la sphère est la somme de tous ces cylindres ce qui donne :
 
 $V = \int_{-R}^R = π(R^2-z^2)dz$
 $V = π\int_{-R}^R R^2 -z^2dz$ 
-$V = π[zR^2-z^3]_{-R}^R$ 
+$V = π[zR^2-\frac{z^3}{3}]_{-R}^R$ 
+$V = π(R^3-\frac{z^3}{3}-R^3+\frac{z})
