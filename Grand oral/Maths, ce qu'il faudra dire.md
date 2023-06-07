@@ -38,7 +38,7 @@ Cela semble bien plus facile à comprendre dans un repère adapté à la forme d
 
 Nous allons donc faire la somme de toutes les variation d'angles fois le rayon $rdθ$ fois la somme de toutes les variations de longueur du rayon, $dr$.
 
-Montrer le schéma.
+*Montrer le schéma.
 
 Cela nous donne : $S = \int_0^R\int_0^{2π} rdθdr$.
 
@@ -46,5 +46,7 @@ En faisant le calcul de primitive on obtient bien:
 
 $S = \int_0^R[θr]_0^{2π}dr$
 $S = \int_0^R2πrdr$ 
-$S = \int_0^R[πr^2]_0$
-$
+$S = [πr^2]_0^R$
+$S = πR^2$ 
+
+Maintenant que nous avons 
