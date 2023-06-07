@@ -66,4 +66,6 @@ $V = \int_{-R}^R = π(R^2-z^2)dz$
 $V = π\int_{-R}^R R^2 -z^2dz$ 
 $V = π[zR^2-\frac{z^3}{3}]_{-R}^R$ 
 $V = π(R^3-\frac{z^3}{3}+R^3-\frac{z^3}{3})$ 
-$V = \frac{4πr^3}{}
+$V = \frac{4πR^3}{3}$ 
+
+On retrouve bien la formule $V = \frac{4πr^3}{3}$ 
