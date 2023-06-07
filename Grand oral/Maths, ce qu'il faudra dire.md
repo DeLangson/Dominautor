@@ -30,3 +30,6 @@ $S = 4\int_{0}^{R} \sqrt{R^2-x^2}dx$
 Nous avons vu en cours que pour le calculer, il faut déterminer la primitive de $\sqrt{R^2-x^2}$.
 Le problème c'est qu'il n'existe pas de formule de primitive qui permette de calculer cette intégrale.
 
+Mais il existe une autre méthode :
+
+En utilisant les coordonnées polaires, on a un point dans l'espace sur un cercle de rayon $r$ et d'angle $θ$ au lieu de $
