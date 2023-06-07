@@ -49,4 +49,5 @@ $S = \int_0^R2πrdr$
 $S = [πr^2]_0^R$
 $S = πR^2$ 
 
-Maintenant que nous avons 
+Maintenant que nous avons la surface du disque, on peut l'utiliser pour démontrer le volume d'une sphère.
+
