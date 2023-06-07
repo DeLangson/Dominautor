@@ -58,5 +58,8 @@ Si on décompose le volume comme la somme de tous les cylindres de hauteur $dz$ 
 *Montrer le schéma*
 
 D'après le théorème de Pytagore : $R^2 = r^2 + z^2$ donc $r^2 = R^2 - z^2$ 
+Donc le volume du cylindre se calcule de la manière suivante : $V = πr^2 dz = π(R^2 - z^2)dz$ 
 
-Donc le volume du cylindre se calcule de la manière suivante : $V = πr^2 dz = π(R^2 - z^2)$ 
+Le volume de la sphère est la somme de tous ces cylindres ce qui donne :
+
+$\int_{-R}^R = π 
