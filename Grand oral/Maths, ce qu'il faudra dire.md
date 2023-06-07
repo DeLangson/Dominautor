@@ -44,4 +44,4 @@ Cela nous donne : $\int_0^R\int_0^{2π} rdθdr$.
 
 En faisant le calcul de primitive on obtient bien:
 
-$\int_0^R[θr]_0^2πdr
+$\int_0^R[θr]_0^{2π}dr$ 
