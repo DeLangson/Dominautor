@@ -62,4 +62,5 @@ Donc le volume du cylindre se calcule de la manière suivante : $V = πr^2 dz = 
 
 Le volume de la sphère est la somme de tous ces cylindres ce qui donne :
 
-$\int_{-R}^R = π 
+$\int_{-R}^R = π(R^2-z^2)dz$
+$
